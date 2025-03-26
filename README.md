@@ -21,8 +21,7 @@ This Project is created based on Generative AI (GenAI) for Orchestrating Emails 
 Modern enterprises, especially in the financial sector, receive thousands of emails and documents daily. Manually triaging, classifying, and routing this information is time-consuming and error-prone. Inspired by the need for intelligent automation, we built a solution using Generative AI to streamline this process—minimizing human effort, reducing turnaround time, and improving accuracy in decision-making.
 
 ## ⚙️ What It Does
-This AI-powered tool automates the triage and routing of emails and documents in financial systems. It:
-
+This AI-powered tool automates the triage and routing of emails and documents in financial systems. 
 • Extracts key financial data from unstructured content
 
 • Classifies requests by type and urgency
