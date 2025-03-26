@@ -12,3 +12,7 @@ Identifies and flags duplicate documents based on field-level similarity.
 
 Outputs structured results in JSON format for easy integration into downstream systems.
 
+## Architecture Diagram:
+![image](https://github.com/user-attachments/assets/c047926c-f8cb-437e-aa8f-bce205050e09)
+
+
