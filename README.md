@@ -81,6 +81,8 @@ Ensuring high accuracy in classifying request
 ```bash
 git clone https://github.com/orgs/ewfx/teams/gaied-ai-squad
 cd gaied-ai-squad
+cd code
+cd src
 ```
 
 2. **Install Dependencies**
